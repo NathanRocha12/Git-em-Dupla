@@ -1,4 +1,4 @@
-Descreva a ordem dos comandos do exercício acima em cada máquina:
+2) Descreva a ordem dos comandos do exercício acima em cada máquina:
 1º git init
 2º git remote add https...
 3º git add .
@@ -8,3 +8,10 @@ Descreva a ordem dos comandos do exercício acima em cada máquina:
 
 PC do amigo
 7º Aceitar convite
+8º git clone https...
+9º Realizar modificações
+10º git commit -a -m "..."
+11º git push origin master
+
+Meu PC
+12º git pull origin master
