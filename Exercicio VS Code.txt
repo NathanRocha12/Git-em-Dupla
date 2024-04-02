@@ -1,0 +1,1 @@
+3) Abra seu repositório no VS Code, faça alterações nos arquivos e use a interface gráfica do VS Code para realizar o Commit e o Push. Seu amigo deverá abrir o mesmo repositório no VS Code e realizar o Pull via interface gráfica.
