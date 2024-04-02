@@ -1,0 +1,10 @@
+Descreva a ordem dos comandos do exercício acima em cada máquina:
+1º git init
+2º git remote add https...
+3º git add .
+4º git commit -a -m "..."
+5º git push origin master
+6º Adicionar colaborador
+
+PC do amigo
+7º Aceitar convite

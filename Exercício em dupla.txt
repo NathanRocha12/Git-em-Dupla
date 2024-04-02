@@ -1,0 +1,1 @@
+Exercício em dupla: crie um repositório e adicione nele alguns arquivos de texto. Coloque um colega como colaborador. Seu colega deverá realizar alterações nos arquivos e enviar novamente ao github. Assim que as alterações forem enviadas você deverá baixar as atualizações.
